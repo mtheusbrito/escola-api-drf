@@ -1,0 +1,503 @@
+{
+    "mantenedora": "(1671) SOCIEDADE UNIVERSITARIA REDENTOR S.A.",
+    "cnpj": "03.596.799/0001-19",
+    "natureza_juridica": "Sociedade Anônima Fechada",
+    "representante_legal": "ANIBAL JOSE GRIFO DE SOUSA ( REPRESENTANTE LEGAL )",
+    "nome_da_ies": "(2571) CENTRO UNIVERSITÁRIO REDENTOR - FACREDENTOR",
+    "situacao": "Ativa",
+    "endereco": "Avenida Presidente Dutra",
+    "no": "1155",
+    "complemento": "CAMPUS - ITAPERUNA - CIDADE NOVA",
+    "cep": "28300-000",
+    "bairro": "Cidade Nova",
+    "municipio": "Itaperuna",
+    "uf": "RJ",
+    "telefone": "(22) 38110111",
+    "fax": "(22) 38110111",
+    "organizacao_academica": "Centro Universitário",
+    "sitio": "www.redentor.edu.br",
+    "categoria_administrativa": "Privada com fins lucrativos",
+    "reitor/dirigente_principal": "FELIPE VARGAS DOS SANTOS VICTOR",
+    "tipo_de_credenciamento": "EAD / Presencial",
+    "code_ies": 2571,
+    "campus": [
+        {
+            "code": "1095971",
+            "city": "Cachoeiro de Itapemirim",
+            "uf": "ES"
+        },
+        {
+            "code": "1093017",
+            "city": "Presidente Kennedy",
+            "uf": "ES"
+        },
+        {
+            "code": "1095985",
+            "city": "Vila Velha",
+            "uf": "ES"
+        },
+        {
+            "code": "1095966",
+            "city": "Angra dos Reis",
+            "uf": "RJ"
+        },
+        {
+            "code": "1095968",
+            "city": "Cabo Frio",
+            "uf": "RJ"
+        },
+        {
+            "code": "1140917",
+            "city": "Itaperuna",
+            "uf": "RJ"
+        },
+        {
+            "code": "1095974",
+            "city": "Macaé",
+            "uf": "RJ"
+        },
+        {
+            "code": "1095980",
+            "city": "Petrópolis",
+            "uf": "RJ"
+        },
+        {
+            "code": "1095984",
+            "city": "Teresópolis",
+            "uf": "RJ"
+        },
+        {
+            "code": "1094457",
+            "city": "Palmas",
+            "uf": "TO"
+        }
+    ],
+    "courses": [
+        [
+            {
+                "codigo": "1447299",
+                "modalidade": "A Distância",
+                "grau": "Bacharelado",
+                "curso": "Administração",
+                "uf": "",
+                "municipio": "Vários municípios",
+                "enade": "-",
+                "cpc": "-",
+                "cc": "-"
+            },
+            {
+                "codigo": "117174",
+                "modalidade": "Presencial",
+                "grau": "Bacharelado",
+                "curso": "Administração",
+                "uf": "RJ",
+                "municipio": "Itaperuna",
+                "enade": "4",
+                "cpc": "4",
+                "cc": "4"
+            }
+        ],
+        [
+            {
+                "codigo": "1447303",
+                "modalidade": "A Distância",
+                "grau": "Bacharelado",
+                "curso": "Arquitetura e urbanismo",
+                "uf": "",
+                "municipio": "Vários municípios",
+                "enade": "-",
+                "cpc": "-",
+                "cc": "-"
+            },
+            {
+                "codigo": "117210",
+                "modalidade": "Presencial",
+                "grau": "Bacharelado",
+                "curso": "Arquitetura e urbanismo",
+                "uf": "RJ",
+                "municipio": "Itaperuna",
+                "enade": "3",
+                "cpc": "4",
+                "cc": "4"
+            }
+        ],
+        [
+            {
+                "codigo": "54856",
+                "modalidade": "Presencial",
+                "grau": "Bacharelado",
+                "curso": "Ciências biológicas",
+                "uf": "RJ",
+                "municipio": "Itaperuna",
+                "enade": "2",
+                "cpc": "4",
+                "cc": "3"
+            },
+            {
+                "codigo": "1259167",
+                "modalidade": "Presencial",
+                "grau": "Licenciatura",
+                "curso": "Ciências biológicas",
+                "uf": "RJ",
+                "municipio": "Itaperuna",
+                "enade": "5",
+                "cpc": "5",
+                "cc": "3"
+            }
+        ],
+        [
+            {
+                "codigo": "1447327",
+                "modalidade": "A Distância",
+                "grau": "Bacharelado",
+                "curso": "Ciências contábeis",
+                "uf": "",
+                "municipio": "Vários municípios",
+                "enade": "-",
+                "cpc": "-",
+                "cc": "-"
+            },
+            {
+                "codigo": "1259166",
+                "modalidade": "Presencial",
+                "grau": "Bacharelado",
+                "curso": "Ciências contábeis",
+                "uf": "RJ",
+                "municipio": "Itaperuna",
+                "enade": "4",
+                "cpc": "5",
+                "cc": "4"
+            }
+        ],
+        [
+            {
+                "codigo": "1074020",
+                "modalidade": "Presencial",
+                "grau": "Bacharelado",
+                "curso": "Direito",
+                "uf": "RJ",
+                "municipio": "Itaperuna",
+                "enade": "4",
+                "cpc": "4",
+                "cc": "4"
+            }
+        ],
+        [
+            {
+                "codigo": "1447304",
+                "modalidade": "A Distância",
+                "grau": "Bacharelado",
+                "curso": "Educação física",
+                "uf": "",
+                "municipio": "Vários municípios",
+                "enade": "-",
+                "cpc": "-",
+                "cc": "-"
+            },
+            {
+                "codigo": "1454594",
+                "modalidade": "Presencial",
+                "grau": "Bacharelado",
+                "curso": "Educação física",
+                "uf": "RJ",
+                "municipio": "Itaperuna",
+                "enade": "-",
+                "cpc": "-",
+                "cc": "-"
+            }
+        ],
+        [
+            {
+                "codigo": "119052",
+                "modalidade": "Presencial",
+                "grau": "Bacharelado",
+                "curso": "Enfermagem",
+                "uf": "RJ",
+                "municipio": "Itaperuna",
+                "enade": "3",
+                "cpc": "4",
+                "cc": "3"
+            }
+        ],
+        [
+            {
+                "codigo": "1156602",
+                "modalidade": "A Distância",
+                "grau": "Bacharelado",
+                "curso": "Engenharia civil",
+                "uf": "",
+                "municipio": "Vários municípios",
+                "enade": "4",
+                "cpc": "5",
+                "cc": "4"
+            },
+            {
+                "codigo": "54859",
+                "modalidade": "Presencial",
+                "grau": "Bacharelado",
+                "curso": "Engenharia civil",
+                "uf": "RJ",
+                "municipio": "Itaperuna",
+                "enade": "3",
+                "cpc": "4",
+                "cc": "4"
+            }
+        ],
+        [
+            {
+                "codigo": "1156603",
+                "modalidade": "A Distância",
+                "grau": "Bacharelado",
+                "curso": "Engenharia de produção",
+                "uf": "",
+                "municipio": "Vários municípios",
+                "enade": "-",
+                "cpc": "-",
+                "cc": "4"
+            },
+            {
+                "codigo": "119054",
+                "modalidade": "Presencial",
+                "grau": "Bacharelado",
+                "curso": "Engenharia de produção",
+                "uf": "RJ",
+                "municipio": "Itaperuna",
+                "enade": "3",
+                "cpc": "4",
+                "cc": "4"
+            }
+        ],
+        [
+            {
+                "codigo": "1156603",
+                "modalidade": "A Distância",
+                "grau": "Bacharelado",
+                "curso": "Engenharia de produção",
+                "uf": "",
+                "municipio": "Vários municípios",
+                "enade": "-",
+                "cpc": "-",
+                "cc": "4"
+            },
+            {
+                "codigo": "119054",
+                "modalidade": "Presencial",
+                "grau": "Bacharelado",
+                "curso": "Engenharia de produção",
+                "uf": "RJ",
+                "municipio": "Itaperuna",
+                "enade": "3",
+                "cpc": "4",
+                "cc": "4"
+            }
+        ],
+        [
+            {
+                "codigo": "1202778",
+                "modalidade": "Presencial",
+                "grau": "Bacharelado",
+                "curso": "Engenharia elétrica",
+                "uf": "RJ",
+                "municipio": "Itaperuna",
+                "enade": "2",
+                "cpc": "4",
+                "cc": "4"
+            }
+        ],
+        [
+            {
+                "codigo": "54860",
+                "modalidade": "Presencial",
+                "grau": "Bacharelado",
+                "curso": "Engenharia mecânica",
+                "uf": "RJ",
+                "municipio": "Itaperuna",
+                "enade": "2",
+                "cpc": "3",
+                "cc": "3"
+            }
+        ],
+        [
+            {
+                "codigo": "90430",
+                "modalidade": "Presencial",
+                "grau": "Bacharelado",
+                "curso": "Fisioterapia",
+                "uf": "RJ",
+                "municipio": "Itaperuna",
+                "enade": "3",
+                "cpc": "4",
+                "cc": "3"
+            }
+        ],
+        [
+            {
+                "codigo": "54861",
+                "modalidade": "Presencial",
+                "grau": "Bacharelado",
+                "curso": "Fonoaudiologia",
+                "uf": "RJ",
+                "municipio": "Itaperuna",
+                "enade": "2",
+                "cpc": "3",
+                "cc": "3"
+            }
+        ],
+        [
+            {
+                "codigo": "1447312",
+                "modalidade": "A Distância",
+                "grau": "Licenciatura",
+                "curso": "Geografia",
+                "uf": "",
+                "municipio": "Vários municípios",
+                "enade": "-",
+                "cpc": "-",
+                "cc": "-"
+            }
+        ],
+        [
+            {
+                "codigo": "1447363",
+                "modalidade": "A Distância",
+                "grau": "Tecnológico",
+                "curso": "Gestão de recursos humanos",
+                "uf": "",
+                "municipio": "Vários municípios",
+                "enade": "-",
+                "cpc": "-",
+                "cc": "3"
+            }
+        ],
+        [
+            {
+                "codigo": "1447308",
+                "modalidade": "A Distância",
+                "grau": "Licenciatura",
+                "curso": "História",
+                "uf": "",
+                "municipio": "Vários municípios",
+                "enade": "-",
+                "cpc": "-",
+                "cc": "-"
+            }
+        ],
+        [
+            {
+                "codigo": "1447322",
+                "modalidade": "A Distância",
+                "grau": "Licenciatura",
+                "curso": "Letras",
+                "uf": "",
+                "municipio": "Vários municípios",
+                "enade": "-",
+                "cpc": "-",
+                "cc": "-"
+            }
+        ],
+        [
+            {
+                "codigo": "1184432",
+                "modalidade": "Presencial",
+                "grau": "Bacharelado",
+                "curso": "Medicina",
+                "uf": "RJ",
+                "municipio": "Itaperuna",
+                "enade": "-",
+                "cpc": "-",
+                "cc": "4"
+            }
+        ],
+        [
+            {
+                "codigo": "1454595",
+                "modalidade": "Presencial",
+                "grau": "Bacharelado",
+                "curso": "Medicina veterinária",
+                "uf": "RJ",
+                "municipio": "Itaperuna",
+                "enade": "-",
+                "cpc": "-",
+                "cc": "-"
+            }
+        ],
+        [
+            {
+                "codigo": "54854",
+                "modalidade": "Presencial",
+                "grau": "Bacharelado",
+                "curso": "Nutrição",
+                "uf": "RJ",
+                "municipio": "Itaperuna",
+                "enade": "4",
+                "cpc": "4",
+                "cc": "3"
+            }
+        ],
+        [
+            {
+                "codigo": "1447319",
+                "modalidade": "A Distância",
+                "grau": "Licenciatura",
+                "curso": "Pedagogia",
+                "uf": "",
+                "municipio": "Vários municípios",
+                "enade": "-",
+                "cpc": "-",
+                "cc": "-"
+            }
+        ],
+        [
+            {
+                "codigo": "1322789",
+                "modalidade": "Presencial",
+                "grau": "Bacharelado",
+                "curso": "Psicologia",
+                "uf": "RJ",
+                "municipio": "Itaperuna",
+                "enade": "-",
+                "cpc": "-",
+                "cc": "4"
+            }
+        ],
+        [
+            {
+                "codigo": "63430",
+                "modalidade": "Presencial",
+                "grau": "Bacharelado",
+                "curso": "Serviço social",
+                "uf": "RJ",
+                "municipio": "Itaperuna",
+                "enade": "3",
+                "cpc": "4",
+                "cc": "3"
+            }
+        ],
+        [
+            {
+                "codigo": "90428",
+                "modalidade": "Presencial",
+                "grau": "Bacharelado",
+                "curso": "Sistema de informação",
+                "uf": "RJ",
+                "municipio": "Itaperuna",
+                "enade": "2",
+                "cpc": "4",
+                "cc": "4"
+            }
+        ],
+        [
+            {
+                "codigo": "1447305",
+                "modalidade": "A Distância",
+                "grau": "Bacharelado",
+                "curso": "Teologia",
+                "uf": "",
+                "municipio": "Vários municípios",
+                "enade": "-",
+                "cpc": "-",
+                "cc": "-"
+            }
+        ]
+    ]
+}
