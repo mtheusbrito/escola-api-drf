@@ -1,7 +1,7 @@
 from django.http import JsonResponse
 from emec.client import Institution
 from escola.models import Aluno, Curso
-from serializer import AlunosSerializer, CursoSerializer
+from escola.serializer import AlunosSerializer, CursoSerializer
 from rest_framework import viewsets
 
 
