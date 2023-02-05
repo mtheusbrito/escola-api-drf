@@ -1,7 +1,7 @@
 from django.http import JsonResponse
 from emec.client import Institution
-from escola.models import Aluno, Curso
-from escola.serializer import AlunosSerializer, CursoSerializer
+from escola.models import Aluno, Curso, Matricula
+from escola.serializer import AlunosSerializer, CursoSerializer, MatriculaSerializer
 from rest_framework import viewsets
 
 
@@ -16,6 +16,11 @@ class CursosViewSet(viewsets.ModelViewSet):
     queryset = Curso.objects.all()
     serializer_class = CursoSerializer
 
+
+class MatriculasViewSet(viewsets.ModelViewSet):
+    """Exibindo todas as matrículas"""
+    queryset = Matricula.objects.all()
+    serializer_class = MatriculaSerializer
 
 # def alunos(request) :
 #     if request.method == 'GET':
