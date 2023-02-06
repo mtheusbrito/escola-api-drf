@@ -19,7 +19,7 @@ class CursosViewSet(viewsets.ModelViewSet):
     """Exibindo todos os cursos"""
     queryset = Curso.objects.all()
     serializer_class = CursoSerializer
-     authentication_classes = [BasicAuthentication]
+    authentication_classes = [BasicAuthentication]
     permission_classes = [IsAuthenticated]
 
 
@@ -27,7 +27,7 @@ class MatriculasViewSet(viewsets.ModelViewSet):
     """Exibindo todas as matrículas"""
     queryset = Matricula.objects.all()
     serializer_class = MatriculaSerializer
-     authentication_classes = [BasicAuthentication]
+    authentication_classes = [BasicAuthentication]
     permission_classes = [IsAuthenticated]
 
 
@@ -38,7 +38,7 @@ class MatriculasAluno(generics.ListAPIView):
         queryset = Matricula.objects.filter(aluno_id=self.kwargs['pk'])
         return queryset
     serializer_class = MatriculasAlunoSerializer
-     authentication_classes = [BasicAuthentication]
+    authentication_classes = [BasicAuthentication]
     permission_classes = [IsAuthenticated]
 
 
@@ -49,7 +49,7 @@ class AlunosMatriculados(generics.ListAPIView):
         queryset = Matricula.objects.filter(curso_id=self.kwargs['pk'])
         return queryset
     serializer_class = AlunosMatriculasSerializer
-     authentication_classes = [BasicAuthentication]
+    authentication_classes = [BasicAuthentication]
     permission_classes = [IsAuthenticated]
 
 
